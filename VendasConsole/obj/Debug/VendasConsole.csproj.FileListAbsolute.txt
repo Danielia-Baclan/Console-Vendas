@@ -1,0 +1,34 @@
+C:\C# Micro\ProjetoVendas\VendasConsole\bin\Debug\VendasConsole.exe.config
+C:\C# Micro\ProjetoVendas\VendasConsole\bin\Debug\VendasConsole.exe
+C:\C# Micro\ProjetoVendas\VendasConsole\bin\Debug\VendasConsole.pdb
+C:\C# Micro\ProjetoVendas\VendasConsole\obj\Debug\VendasConsole.csprojAssemblyReference.cache
+C:\C# Micro\ProjetoVendas\VendasConsole\obj\Debug\VendasConsole.csproj.CoreCompileInputs.cache
+C:\C# Micro\ProjetoVendas\VendasConsole\obj\Debug\VendasConsole.exe
+C:\C# Micro\ProjetoVendas\VendasConsole\obj\Debug\VendasConsole.pdb
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoVendas\VendasConsole\bin\Debug\VendasConsole.exe.config
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoVendas\VendasConsole\bin\Debug\VendasConsole.exe
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoVendas\VendasConsole\bin\Debug\VendasConsole.pdb
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoVendas\VendasConsole\obj\Debug\VendasConsole.csprojResolveAssemblyReference.cache
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoVendas\VendasConsole\obj\Debug\VendasConsole.exe
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\Microsoft C#\ProjetoVendas\VendasConsole\obj\Debug\VendasConsole.pdb
+C:\Users\Aluno\Desktop\ProjetoVendas\VendasConsole\obj\Debug\VendasConsole.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\ProjetoVendas\VendasConsole\obj\Debug\VendasConsole.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ProjetoVendas\VendasConsole\obj\Debug\VendasConsole.exe
+C:\Users\Aluno\Desktop\ProjetoVendas\VendasConsole\obj\Debug\VendasConsole.pdb
+C:\Users\Aluno\Desktop\ProjetoVendas\VendasConsole\bin\Debug\VendasConsole.exe.config
+C:\Users\Aluno\Desktop\ProjetoVendas\VendasConsole\bin\Debug\VendasConsole.exe
+C:\Users\Aluno\Desktop\ProjetoVendas\VendasConsole\bin\Debug\VendasConsole.pdb
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\MicrosoftC#\ProjetoVendas\VendasConsole\bin\Debug\VendasConsole.exe.config
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\MicrosoftC#\ProjetoVendas\VendasConsole\bin\Debug\VendasConsole.exe
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\MicrosoftC#\ProjetoVendas\VendasConsole\bin\Debug\VendasConsole.pdb
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\MicrosoftC#\ProjetoVendas\VendasConsole\obj\Debug\VendasConsole.csprojAssemblyReference.cache
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\MicrosoftC#\ProjetoVendas\VendasConsole\obj\Debug\VendasConsole.csproj.CoreCompileInputs.cache
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\MicrosoftC#\ProjetoVendas\VendasConsole\obj\Debug\VendasConsole.exe
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\MicrosoftC#\ProjetoVendas\VendasConsole\obj\Debug\VendasConsole.pdb
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\MicrosoftC#\ProjetoVendasMeuConsole\VendasConsole\bin\Debug\VendasConsole.exe.config
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\MicrosoftC#\ProjetoVendasMeuConsole\VendasConsole\bin\Debug\VendasConsole.exe
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\MicrosoftC#\ProjetoVendasMeuConsole\VendasConsole\bin\Debug\VendasConsole.pdb
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\MicrosoftC#\ProjetoVendasMeuConsole\VendasConsole\obj\Debug\VendasConsole.csprojAssemblyReference.cache
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\MicrosoftC#\ProjetoVendasMeuConsole\VendasConsole\obj\Debug\VendasConsole.csproj.CoreCompileInputs.cache
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\MicrosoftC#\ProjetoVendasMeuConsole\VendasConsole\obj\Debug\VendasConsole.exe
+C:\Users\jenif\OneDrive\Documentos\Facul. ADS\MicrosoftC#\ProjetoVendasMeuConsole\VendasConsole\obj\Debug\VendasConsole.pdb
